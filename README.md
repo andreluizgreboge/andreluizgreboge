@@ -8,7 +8,7 @@ Twitter = https://twitter.com/AGreboge
 Instagram = https://www.instagram.com/andregreboge/
 
 
-<b>Brazilian Portuguese BIO:</b>
+<b>About me:</b>
 
 André Luiz Greboge, CFA Level 1 Candidate. Possuo CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
 
