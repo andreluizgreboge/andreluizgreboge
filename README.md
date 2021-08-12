@@ -1,11 +1,11 @@
-<b>Redes/Website/Social Midia:</b>
+<b>Redes Sociais / Social Midia:</b>
 
 
-https://www.linkedin.com/in/andregreboge/
+LinkedIn = https://www.linkedin.com/in/andregreboge/
 
-https://twitter.com/AGreboge
+Twitter = https://twitter.com/AGreboge
 
-https://www.instagram.com/andregreboge/
+Instagram = https://www.instagram.com/andregreboge/
 
 
 <b>Brazilian Portuguese BIO:</b>
@@ -16,17 +16,6 @@ Meu interesse profissional principal é em análise de crédito. Atualmente curs
 
 Em meu tempo livre treino e crio pequenos projetos na linguagem Python, justamente para desenvolver ferramentas de análise e cálculo para decisões de investimentos.
 Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
-
-
-<b>English BIO:</b>
-
-André Luiz Greboge, CFA Candidate Level 1. I have the CEA certificate (investment specialist), PQO Operations, Commercial Program and Investment Foundations, from the CFA Institute.
-
-My main professional interest is in credit analysis. Currently studying MBA in controllership and finance, ending in Jan/2022, currently I work at the credit area of Belluno Digital Bank. In addition to the credit analysis area, I also have a professional interest in equity analysis and operations.
-
-In my free time I train and create small projects in Python language, precisely to develop analysis and calculation tools for investment decisions.
-As a hobby, I create content about finance, economics and investments on LinkedIn and Instagram.
-
 
 
 <!---
