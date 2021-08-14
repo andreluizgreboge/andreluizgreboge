@@ -10,7 +10,7 @@ Instagram = https://www.instagram.com/andregreboge/
 
 <b>About me:</b>
 
-André Luiz Greboge, CFA Level 1 Candidate. Possuo CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
+André Luiz Greboge. Possuo CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
 
 Meu interesse profissional principal é em análise de crédito. Atualmente cursando MBA em controladoria e finanças, com término em Jan/2022, atuo na área de crédito do FIDC da Belluno Digital Bank. Além da área de análise de crédito, também tenho interesse profissional em equity analysis e operações.
 
