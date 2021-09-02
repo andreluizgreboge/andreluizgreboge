@@ -1,5 +1,16 @@
-<b>Redes Sociais / Social Midia:</b>
 
+<h1>André Luiz Greboge</h1>
+
+
+
+<h2>About me:</h2>
+
+André Luiz Greboge. Possuo CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
+
+Meu interesse profissional principal é em análise de crédito e equity. Atualmente cursando MBA em controladoria e finanças, com término em Jan/2022, atuo na área de crédito do FIDC da Belluno Digital Bank. Em meu tempo livre treino e crio pequenos projetos na linguagem Python, justamente para desenvolver ferramentas de análise e cálculo para decisões de investimentos. Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
+
+
+<h2>Redes Sociais / Social Midia:</h2>
 
 LinkedIn = https://www.linkedin.com/in/andregreboge/
 
@@ -8,14 +19,7 @@ Twitter = https://twitter.com/AGreboge
 Instagram = https://www.instagram.com/andregreboge/
 
 
-<b>About me:</b>
 
-André Luiz Greboge. Possuo CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
-
-Meu interesse profissional principal é em análise de crédito. Atualmente cursando MBA em controladoria e finanças, com término em Jan/2022, atuo na área de crédito do FIDC da Belluno Digital Bank. Além da área de análise de crédito, também tenho interesse profissional em equity analysis e operações.
-
-Em meu tempo livre treino e crio pequenos projetos na linguagem Python, justamente para desenvolver ferramentas de análise e cálculo para decisões de investimentos.
-Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
 
 
 <!---
