@@ -7,7 +7,9 @@
 
 Possuo CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
 
-Meu interesse profissional principal é em análise de crédito e equity. Atualmente cursando MBA em controladoria e finanças, com término em Jan/2022, atuo na área de crédito do FIDC da Belluno Digital Bank. Em meu tempo livre treino e crio pequenos projetos na linguagem Python, justamente para desenvolver ferramentas de análise e cálculo para decisões de investimentos. Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
+A programação em Python é para me ajudar na criação de portfolios, análises, automatizar coleta de dados que ajudem na tomada de decisão de investimento, cessão de crédito.
+
+Meu interesse profissional principal é em análise de crédito e equity. Atualmente cursando MBA em controladoria e finanças, com término em Jan/2022, atuo na área de crédito do FIDC da Belluno Digital Bank. <i>A programação em Python é para me ajudar na criação de portfolios, análises, automatizar coleta de dados que ajudem na tomada de decisão de investimento, cessão de crédito, etc. </i> Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
 
 
 <h2>Redes Sociais / Social Midia:</h2>
