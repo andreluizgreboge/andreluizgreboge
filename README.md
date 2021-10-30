@@ -1,10 +1,12 @@
 
 <h1>ANDRÉ LUIZ GREBOGE</h1>
 
+![Capa de Cosméticos e Beleza para Facebook com Pinceladas em Rosa](https://user-images.githubusercontent.com/53190186/139558458-23dcb35d-f2da-4380-8d3d-df1124895bdb.png)
 
 
 
-<a><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' a href='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' a href='https://www.linkedin.com/in/andregreboge/'></a>
+
+
   
 
 
@@ -17,9 +19,9 @@ Meu interesse profissional principal é em análise de crédito e equity. Atualm
 
 
 
-
 <h2>Redes Sociais / Social Midia:</h2>
 
+<a><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' a href='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' a href='https://www.linkedin.com/in/andregreboge/'></a>
 
 LinkedIn = https://www.linkedin.com/in/andregreboge/
 
