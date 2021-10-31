@@ -2,7 +2,7 @@
 <br/>
 
 
-![Capa de Cosméticos e Beleza para Facebook com Pinceladas em Rosa (3)](https://user-images.githubusercontent.com/53190186/139563174-d0292c5e-f6bb-4576-b544-8abfa07b757b.png)
+![Capa de Cosméticos e Beleza para Facebook com Pinceladas em Rosa (5)](https://user-images.githubusercontent.com/53190186/139563401-86526e9b-23e4-45df-bb33-2b32942153ce.png)
 
 
 
