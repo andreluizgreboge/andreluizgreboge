@@ -1,23 +1,24 @@
 
-<h1>ANDRÉ LUIZ GREBOGE</h1>
-
-![Capa de Cosméticos e Beleza para Facebook com Pinceladas em Rosa](https://user-images.githubusercontent.com/53190186/139558458-23dcb35d-f2da-4380-8d3d-df1124895bdb.png)
+<br/>
 
 
+![Capa de Cosméticos e Beleza para Facebook com Pinceladas em Rosa (3)](https://user-images.githubusercontent.com/53190186/139563174-d0292c5e-f6bb-4576-b544-8abfa07b757b.png)
 
 
+
+
+<br/><br/><br/>
 
   
-
+<h3>André Luiz Greboge</h3>
 
 Possuo CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
 
 Meu interesse profissional principal é em análise de crédito e equity. Atualmente cursando MBA em controladoria e finanças, com término em Jan/2022, atuo na área de crédito do FIDC da Belluno Digital Bank. <i>A programação em Python é para me ajudar na criação de portfolios, análises, automatizar coleta de dados que ajudem na tomada de decisão de investimento, cessão de crédito, etc. </i> Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
-
+<br/><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizgreboge&langs_count=8&&theme=tokyonight)](https://github.com/andreluizgreboge/github-readme-stats)
-
-
+<br/>
 
 <h2>Redes Sociais / Social Midia:</h2>
 
