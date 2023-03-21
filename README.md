@@ -1,14 +1,5 @@
 
 <br/>
-
-
-![Capa de Cosméticos e Beleza para Facebook com Pinceladas em Rosa (5)](https://user-images.githubusercontent.com/53190186/139563401-86526e9b-23e4-45df-bb33-2b32942153ce.png)
-
-
-
-
-<br/><br/><br/>
-
   
 <h3>André Luiz Greboge</h3>
 
@@ -25,11 +16,7 @@ Meu interesse profissional principal é em análise financeira. Atualmente cursa
 
 LinkedIn = https://www.linkedin.com/in/andregreboge/
 
-Instagram = https://www.instagram.com/andregreboge/
 
-Twitter = https://twitter.com/AGreboge
-
-Youtube = https://www.youtube.com/user/andregreboge
 
 <!---
 andreluizgreboge/andreluizgreboge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
