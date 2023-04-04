@@ -9,7 +9,7 @@ Meu interesse profissional principal é em análise financeira. Atualmente cursa
 
 <h2>Redes Sociais / Social Midia:</h2>
 
-<a><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' a href='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' a href='https://www.linkedin.com/in/andregreboge/'></a>
+<a><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' a href='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 
 LinkedIn = https://www.linkedin.com/in/andregreboge/
 
