@@ -1,8 +1,6 @@
 <h3>André Luiz Greboge</h3>
 
-Possuo CFG e CEA (especialista em investimentos), PQO Operações, Comercial e Investment Foundations Program, do CFA Institute.
-
-Meu interesse profissional principal é em análise financeira. Atualmente cursando MBA em controladoria e finanças, com término em Jan/2022. <i>A programação em Python é para me ajudar na criação de portfolios, análises, automatizar coleta de dados que ajudem na tomada de decisão de investimento, administração de fluxos de caixa, etc. </i> Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
+Possuo CGA e meu interesse com progração é para obter análises financeiras melhores. Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
 <br/><br/><br/>
 
 
