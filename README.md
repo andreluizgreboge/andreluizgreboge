@@ -1,6 +1,6 @@
 <h3>André Luiz Greboge</h3>
 
-Possuo CGA e meu interesse com progração é para obter análises financeiras melhores. Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn e Instagram.
+Possuo CGA e meu interesse com progração é para obter análises financeiras melhores. Como hobby, crio conteúdo sobre finanças, economia e investimentos no LinkedIn.
 <br/><br/><br/>
 
 
