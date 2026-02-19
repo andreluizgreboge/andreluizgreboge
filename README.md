@@ -9,7 +9,7 @@ LinkedIn: [in/andreluizgreboge](https://www.linkedin.com/in/andregreboge/)
 
 ---
 
-## 🧠 Systems Lab Overview 🧠
+##  Systems Lab Overview 
 
 ### 🔹 Core AI Systems
 
