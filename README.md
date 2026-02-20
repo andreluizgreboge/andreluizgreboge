@@ -31,19 +31,21 @@ Real-world workflow automation (e.g., automated financial reporting).
 PoCs with new architectures and hardware efficiency studies optimized for local constraints.
 
 ---
+<!--
 
 ## 📊 Systems Shipped (Living Counter)
 
 *Currently under construction — focusing on boutique quality, not just quantity.*
 
-- **Core AI Systems:** 2
-- **AI Tooling / Infra:** 3
-- **Real-Time / Edge AI:** 1
-- **Multimodal:** 4
-- **Automation:** 2
-- **Research:** 5+
+- **Core AI Systems:** 0
+- **AI Tooling / Infra:** 0
+- **Real-Time / Edge AI:** 0
+- **Multimodal:** 0
+- **Automation:** 0
+- **Research:** 1
 
 ---
+-->
 
 ### Tech Stack & Tools
 
