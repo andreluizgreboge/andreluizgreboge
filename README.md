@@ -1,41 +1,61 @@
-## Hi, I'm André.
+# Hi, I'm André 👋
 
-Independent AI systems builder creating a living lab of local-first, multimodal intelligent systems.
+**Generalist building local, multimodal, and accessible AI systems.** Focused on usability, privacy, and real-world hardware performance.
 
-**Background:**  
-Finance → AI systems 
+**My Path:** 🎼 Contemporary Music Composition → 📊 Senior Finance Analyst → 🤖 **AI Builder**
 
-LinkedIn: [in/andreluizgreboge](https://www.linkedin.com/in/andregreboge/)
-
----
-
-## 🧠 Systems Lab Overview
-
-### 🔹 Core AI Systems
-End-to-end intelligent systems combining models, backend and interface.
-
-### 🔹 AI Tooling / Infrastructure
-Tools and scripts to accelerate development of AI systems — local model integration, pipelines, utilities.
-
-### 🔹 Real-Time / Edge AI
-Systems operating in real-time or locally on edge devices, including live inference and offline processing.
-
-### 🔹 Multimodal Experiments
-Projects combining image, text, audio, or video — exploratory prototypes.
-
-### 🔹 Automation Systems
-Systems automating end-to-end workflows, like automated book generation pipelines.
-
-### 🔹 Research / Exploratory
-Technical studies, proofs-of-concept, and experimentation with novel architectures or approaches.
+**Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregreboge/)
 
 ---
 
-## 📊 Systems Shipped
+## 🧠 Living Lab: Local-First AI Systems
 
-- Core AI Systems: 0  
-- AI Tooling / Infrastructure: 0  
-- Real-Time / Edge AI: 0  
-- Multimodal Experiments: 0  
-- Automation Systems: 0  
-- Research / Exploratory: 0 
+My GitHub is a living laboratory for end-to-end AI solutions.
+
+### 🔹 Core AI Systems  
+Full-stack intelligent systems: Model + Backend + Sleek, functional UI.
+
+### 🔹 AI Tooling / Infra  
+Tools to accelerate local builds: pipelines, Ollama integrations, and edge utilities.
+
+### 🔹 Real-Time / Edge AI  
+Live or offline inference on resource-constrained devices (laptops, mini-PCs, refurbished GPUs).
+
+### 🔹 Multimodal Experiments  
+Text + Image + Audio/Video — exploratory prototypes using Qwen-VL and beyond.
+
+### 🔹 Automation Systems  
+Real-world workflow automation (e.g., automated financial reporting).
+
+### 🔹 Research / Exploratory  
+PoCs with new architectures and hardware efficiency studies optimized for local constraints.
+
+---
+
+## 📊 Systems Shipped (Living Counter)
+
+*Currently under construction — focusing on boutique quality, not just quantity.*
+
+- **Core AI Systems:** 2
+- **AI Tooling / Infra:** 3
+- **Real-Time / Edge AI:** 1
+- **Multimodal:** 4
+- **Automation:** 2
+- **Research:** 5+
+
+---
+
+### Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=flat&logo=google&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-FF6F00?style=flat&logo=alibaba&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+*“Building bridges between creativity, financial precision, and AI sovereignty.”*
