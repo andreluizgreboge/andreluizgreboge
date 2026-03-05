@@ -1,63 +1,89 @@
 # Hi, I'm André 👋
 
-**Generalist building local, multimodal, and accessible AI systems.** Focused on usability, privacy, and real-world hardware performance.
+**Systems-oriented AI builder focused on local-first, multimodal, and real-world constrained hardware environments.**  
+I design intelligent systems that run where people actually are — not just in the cloud.
 
-**My Path:** 🎼 Contemporary Music Composition → 📊 Senior Finance Analyst → 🤖 **AI Builder**
+🎼 Contemporary Music Composition → 📊 Senior Finance Analyst → 🤖 AI Systems Engineering
 
-**Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregreboge/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregreboge/)
+
+---
+
+## 🧠 Systems Portfolio
+
+My GitHub functions as a structured lab for applied AI across science, perception systems, automation, and exploratory computing.
 
 ---
 
-## 🧠 Living Lab: Local-First AI Systems
+### 🧬 Computational Science & Bio-AI
 
-My GitHub is a living laboratory for end-to-end AI solutions.
+#### 🔹 Peptide Analytics Lab  
+Computational biology environment for peptide and protein analysis.  
+Bridges molecular data processing, visualization, and applied machine learning.
 
-### 🔹 Core AI Systems  
-Full-stack intelligent systems: Model + Backend + Sleek, functional UI.
-
-### 🔹 AI Tooling / Infra  
-Tools to accelerate local builds: pipelines, Ollama integrations, and edge utilities.
-
-### 🔹 Real-Time / Edge AI  
-Live or offline inference on resource-constrained devices (laptops, mini-PCs, refurbished GPUs).
-
-### 🔹 Multimodal Experiments  
-Text + Image + Audio/Video — exploratory prototypes using Qwen-VL and beyond.
-
-### 🔹 Automation Systems  
-Real-world workflow automation (e.g., automated financial reporting).
-
-### 🔹 Research / Exploratory  
-PoCs with new architectures and hardware efficiency studies optimized for local constraints.
+→ Focus: scientific computing, structure prediction, data interpretation  
+👉 https://github.com/andreluizgreboge/Peptide-Analytics-Lab
 
 ---
-<!--
 
-## 📊 Systems Shipped (Living Counter)
+### 🚗 Real-Time Perception Systems
 
-*Currently under construction — focusing on boutique quality, not just quantity.*
+#### 🔹 Driver Monitoring System  
+Computer vision system for real-time driver state analysis.  
+Designed with edge execution and hardware constraints in mind.
 
-- **Core AI Systems:** 0
-- **AI Tooling / Infra:** 0
-- **Real-Time / Edge AI:** 0
-- **Multimodal:** 0
-- **Automation:** 0
-- **Research:** 1
+→ Focus: safety AI, real-time inference, vision pipelines  
+👉 https://github.com/andreluizgreboge/Driver-Monitoring-System
 
 ---
--->
 
-### Tech Stack & Tools
+### 🚁 Autonomous & Strategic Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat)
-![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=flat&logo=google&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-FF6F00?style=flat&logo=alibaba&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=flat&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+#### 🔹 ASLS  
+Exploratory loitering drone system focused on autonomous aerial surveillance concepts.
+
+→ Focus: autonomous systems, aerial strategy, real-time intelligence  
+👉 https://github.com/andreluizgreboge/ASLS
 
 ---
-*“Building bridges between creativity, financial precision, and AI sovereignty.”*
+
+### 🔍 Intelligence & Analytical Tooling
+
+#### 🔹 OSINT Airbase Explorer
+Open-source intelligence exploration tool for structured infrastructure analysis.
+
+→ Focus: data investigation, structured exploration, analytical systems  
+👉 https://github.com/andreluizgreboge/osint-airbase-explorer
+
+---
+
+### 🎨 Computational Creativity & Experimental Systems
+
+#### 🔹 Soviet Plenka  
+Experimental computational art and aesthetic exploration project.
+
+→ Focus: generative systems, digital aesthetics, creative coding  
+👉 https://github.com/andreluizgreboge/soviet-plenka
+
+---
+
+## 🧱 Core Themes
+
+Across all domains, my work consistently explores:
+
+- Local-first execution
+- Hardware-aware optimization
+- Multimodal systems
+- End-to-end architecture (model → backend → interface)
+- Practical deployment on non-enterprise hardware
+
+---
+
+## 🛠 Tech Stack
+
+Python · FastAPI · Computer Vision · Local LLMs · Ollama · Hugging Face · Gemma · Qwen · DeepSeek  
+HTML · CSS · Lightweight UI architectures
+
+---
+
+> “Designing intelligent systems with creative structure and analytical rigor.”
