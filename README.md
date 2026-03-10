@@ -55,6 +55,14 @@ Open-source intelligence exploration tool for structured infrastructure analysis
 → Focus: data investigation, structured exploration, analytical systems  
 👉 https://github.com/andreluizgreboge/osint-airbase-explorer
 
+
+#### 🔹 Tectonic Intel
+Real-time geological intelligence monitor utilizing live USGS data.
+
+→ Focus: real-time data pipelines, OSINT, systemic visualization  
+👉 https://github.com/andreluizgreboge/tectonic-intel
+
+
 ---
 
 ### 🎨 Computational Creativity & Experimental Systems
