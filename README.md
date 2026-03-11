@@ -102,19 +102,6 @@ Designed for pixel artists and indie developers.
 
 ---
 
-## 🧱 Core Themes
 
-Across all domains, my work consistently explores:
-
-- Local-first execution
-- Hardware-aware optimization
-- Multimodal systems
-- End-to-end architecture (model → backend → interface)
-- Practical deployment on non-enterprise hardware
-
----
-
-
----
 
 > “Designing intelligent systems with creative structure and analytical rigor.”
