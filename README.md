@@ -55,6 +55,7 @@ Open-source intelligence exploration tool for structured infrastructure analysis
 → Focus: data investigation, structured exploration, analytical systems  
 👉 https://github.com/andreluizgreboge/osint-airbase-explorer
 
+<br>
 
 #### 🔹 Tectonic Intel
 Real-time geological intelligence monitor utilizing live USGS data.
@@ -72,6 +73,15 @@ Experimental computational art and aesthetic exploration project.
 
 → Focus: generative systems, digital aesthetics, creative coding  
 👉 https://github.com/andreluizgreboge/soviet-plenka
+
+<br>
+
+#### 🔹Retro Palette Converter
+Browser-based tool that converts images into limited retro-style color palettes.
+Designed for pixel artists and indie developers.
+
+→ Focus: browser computing, image processing, creative tooling   
+👉 https://github.com/andreluizgreboge/retro-palette-converter
 
 ---
 
