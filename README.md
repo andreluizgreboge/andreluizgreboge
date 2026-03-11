@@ -1,17 +1,34 @@
 # Hi, I'm André 👋
 
-**Systems-oriented AI builder focused on local-first, multimodal, and real-world constrained hardware environments.**  
-I design intelligent systems that run where people actually are — not just in the cloud.
+Systems-oriented AI builder focused on **local-first, multimodal, and hardware-aware intelligent systems**.
+
+I design systems that run where people actually are — **on constrained machines, edge devices, and real-world environments**, not just in the cloud.
 
 🎼 Contemporary Music Composition → 📊 Senior Finance Analyst → 🤖 AI Systems Engineering
 
+🔗 LinkedIn:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregreboge/)
 
 ---
 
 ## 🧠 Systems Portfolio
 
-My GitHub functions as a structured lab for applied AI across science, perception systems, automation, and exploratory computing.
+This GitHub works as a **structured laboratory for applied AI systems**, spanning scientific computing, perception systems, autonomous concepts, analytical tooling, and experimental computing.
+
+Projects here explore practical system design across multiple domains while maintaining a consistent focus on:
+
+- local-first execution
+- hardware-aware optimization
+- multimodal processing
+- end-to-end system architecture
+- deployment on non-enterprise hardware
+---
+
+## 🛠 Core Technologies
+
+Python · FastAPI · Computer Vision  
+Local LLMs · Ollama · Hugging Face · Gemma · Qwen · DeepSeek  
+HTML · CSS · Lightweight UI architectures 
 
 ---
 
@@ -97,10 +114,6 @@ Across all domains, my work consistently explores:
 
 ---
 
-## 🛠 Tech Stack
-
-Python · FastAPI · Computer Vision · Local LLMs · Ollama · Hugging Face · Gemma · Qwen · DeepSeek  
-HTML · CSS · Lightweight UI architectures
 
 ---
 
