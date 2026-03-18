@@ -108,8 +108,8 @@ Designed for pixel artists and indie developers.
 #### 🔹 CyberLab
 Browser-based, first contect tool, zero-dependency educational terminal for Linux and Cyber Security literacy.   
 
-→ Focus: sandbox learning, pedagogical UI design, local-first education. 
-👉 https://github.com/andreluizgreboge/soviet-plenka
+→ Focus: sandbox learning, pedagogical UI design, local-first education  
+👉 https://github.com/andreluizgreboge/CyberLab
 
 <br>
 
