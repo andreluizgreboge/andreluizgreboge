@@ -4,7 +4,7 @@ Systems-oriented AI builder focused on **local-first, multimodal, and hardware-a
 
 I design systems that run where people actually are — **on constrained machines, edge devices, and real-world environments**, not just in the cloud.
 
-🎼 Contemporary Music Composition → 📊 Senior Finance Analyst → 🤖 AI Systems Engineering
+🎼  Music Teacher & Contemporary Composition → 📊 Senior Finance Analyst → 🤖 AI Systems Engineering
 
 🔗 LinkedIn:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregreboge/)
@@ -103,5 +103,16 @@ Designed for pixel artists and indie developers.
 ---
 
 
+### 🎨 Educational Sandbox Tools
+
+#### 🔹 CyberLab
+Browser-based, first contect tool, zero-dependency educational terminal for Linux and Cyber Security literacy.   
+
+→ Focus: sandbox learning, pedagogical UI design, local-first education. 
+👉 https://github.com/andreluizgreboge/soviet-plenka
+
+<br>
+
+---
 
 > “Designing intelligent systems with creative structure and analytical rigor.”
