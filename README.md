@@ -113,6 +113,13 @@ Browser-based, first contect tool, zero-dependency educational terminal for Linu
 
 <br>
 
+### 🔹 Continuous Improvement Wiki
+A dynamic, JSON-driven knowledge hub for Operational Excellence, Lean methodologies, and Local AI integration.   
+
+→ Focus: process architecture, structured data (JSON), industrial efficiency frameworks.   
+👉 https://github.com/andreluizgreboge/melhoria-continua-wiki
+
+
 ---
 
 > “Designing intelligent systems with creative structure and analytical rigor.”
